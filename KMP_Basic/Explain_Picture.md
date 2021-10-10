@@ -1,0 +1,1 @@
+![KMP_Explain](KMP.jpg)
